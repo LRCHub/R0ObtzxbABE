@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Wildest Flower",
+  "base_artist": "初星学園、Giga、花海咲季",
+  "createdAt": "2026-03-30T06:39:32.587139Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wildest Flower",
+      "artist": "初星学園, Giga, 花海咲季",
+      "has_synced": true,
+      "path": "select/01_Wildest_Flower_初星学園,_Giga,_花海咲季.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wildest Flower",
+      "artist": "初星学園, 、, Giga, 、, 花海咲季",
+      "has_synced": true,
+      "path": "select/02_Wildest_Flower_初星学園,_、,_Giga,_、,_花海咲季.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wildest Dreams",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/03_Wildest_Dreams_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wildest Dreams",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/04_Wildest_Dreams_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In My Wildest Dreams",
+      "artist": "Aaron Tippin",
+      "has_synced": false,
+      "path": "select/05_In_My_Wildest_Dreams_Aaron_Tippin.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Your Wildest Dreams",
+      "artist": "The Moody Blues",
+      "has_synced": true,
+      "path": "select/06_Your_Wildest_Dreams_The_Moody_Blues.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Your Wildest Dream",
+      "artist": "The Moody Blues",
+      "has_synced": true,
+      "path": "select/07_Your_Wildest_Dream_The_Moody_Blues.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wildest Dreams",
+      "artist": "LÉON",
+      "has_synced": true,
+      "path": "select/08_Wildest_Dreams_LÉON.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wildest Dream",
+      "artist": "Journey",
+      "has_synced": true,
+      "path": "select/09_Wildest_Dream_Journey.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wildest Dream",
+      "artist": "Journey",
+      "has_synced": false,
+      "path": "select/10_Wildest_Dream_Journey.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wildest Dreams",
+      "artist": "Marilyn Martin",
+      "has_synced": false,
+      "path": "select/11_Wildest_Dreams_Marilyn_Martin.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wildest Dreams",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/12_Wildest_Dreams_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wildest Moments",
+      "artist": "Jessie Ware",
+      "has_synced": true,
+      "path": "select/13_Wildest_Moments_Jessie_Ware.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In Your Wildest Dreams",
+      "artist": "Reverend Horton Heat",
+      "has_synced": true,
+      "path": "select/14_In_Your_Wildest_Dreams_Reverend_Horton_Heat.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wildest Dream",
+      "artist": "Asia",
+      "has_synced": false,
+      "path": "select/15_Wildest_Dream_Asia.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Wildest Dreams",
+      "artist": "Asia",
+      "has_synced": true,
+      "path": "select/16_Wildest_Dreams_Asia.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Wildest Dreams",
+      "artist": "Asia",
+      "has_synced": true,
+      "path": "select/17_Wildest_Dreams_Asia.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "In Your Wildest Dreams",
+      "artist": "Tina Turner",
+      "has_synced": false,
+      "path": "select/18_In_Your_Wildest_Dreams_Tina_Turner.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Never in My Wildest Dreams",
+      "artist": "Dan Auerbach",
+      "has_synced": true,
+      "path": "select/19_Never_in_My_Wildest_Dreams_Dan_Auerbach.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Walk On (Wildest Dreams)",
+      "artist": "Jimi Jamison",
+      "has_synced": false,
+      "path": "select/20_Walk_On_(Wildest_Dreams)_Jimi_Jamison.txt"
+    }
+  ]
+}
