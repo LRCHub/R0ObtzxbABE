@@ -1,0 +1,57 @@
+# 初星学園、Giga、花海咲季 – Wildest Flower
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.97] Na-mm, na-mm, na-mm (oh)
+[00:06.86] Na-mm, na-mm, na-mm (nobody 直感 keep on)
+[00:26.36] 
+[00:12.25] Ah 世界の色が変わったみたい
+[00:15.73] 残された私だけ why?
+[00:18.55] 声もちっとも届かないわ
+[00:20.94] Feel like I'm all alone
+[00:32.44] 
+[00:24.30] だけど これじゃナメられるわ
+[00:26.56] （だから）このままで枯れてしまうな
+[00:29.77] 追い風呼んで 戦いのリベンジ
+[00:32.92] Now I'll go
+[00:38.42] 
+[00:35.98] Top, top, top, top, top 目掛け
+[00:38.85] Knock, knock, knock, knock 'em off 勝利まで
+[00:41.81] 何回だって 立ち向かうんだ (oh, we-oh-we-oh, we-oh-we-oh)
+[00:47.53] No, no, no, no, not afraid だって
+[00:50.41] どんな傷付いても 希望は終わんない
+[00:54.27] Because I'm... 鮮やかに咲いたwildest flower
+[01:12.27] 
+[01:10.60] Yeah, I'm just gonna go, go
+[01:12.69] You can't stop me, no, no お決まりの戯言 (talk to hand)
+[01:17.19] 諦めるなんて毛頭ないから 勝手に決めんなって
+[01:19.82] Do ya thing, aww いちいちお節介 どうも
+[01:33.82] 
+[01:22.83] 無双のイメージ wanna, wanna (ah, yeah)
+[01:25.58] Ah 取り戻せ be harder, harder
+[01:27.85] 日差し浴びて 戦いのステージ
+[01:31.14] Goin' on
+[01:35.14] 
+[01:36.40] (Don't forget) 忘れないで うちらの思い出
+[01:41.39] (Our days) お互いパーフェクトなバランスで
+[01:47.52] 持ち合う 優しさとpain 失えないbest friend
+[01:52.28] おいで そばで 見せる証明
+[01:58.78] 
+[01:57.85] I'm goin' to the top, top, top, top, top 目掛け
+[02:01.82] Knock, knock, knock, knock 'em off 勝利まで
+[02:04.51] 限界だって 越えていけるんだ (oh, we-oh-we-oh, we-oh-we-oh)
+[02:10.43] No, no, no, no, not afraid だって
+[02:13.39] 何度リスタートだって ゴールは消えない
+[02:17.27] Because I'm... 砂漠の上咲いたwildest flower (oh, yeah!)
+[02:41.27] 
+[02:22.26] ハードルは高い方が燃えるもんでしょ
+[02:25.04] (Oh, we-oh-we-oh, we-oh-we-oh)
+[02:27.51] 這い上がるように始まる リベンジゲーム
+[02:30.85] 'Cause I am the wildest flower
+[02:45.85] 
+[02:32.90] I'm goin' to the top, top, top, top
+[02:36.28] (Ooh-ooh, oh, yeah, yeah)
+[02:39.56] Knock, knock 'em off (ooh-ooh)
+[02:42.38] 咲き誇るの wildest flower
+```
